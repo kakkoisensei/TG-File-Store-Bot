@@ -1,5 +1,8 @@
 pyrogram
+pymongo[srv]
+dnspython
 Pyromod
 TgCrypto
 psycopg2-binary
 sqlalchemy==1.3.23
+Final Fix: Install dependencies for Atlas 'srv' database connection
